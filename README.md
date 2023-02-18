@@ -1,4 +1,4 @@
-# Text_Analysi_NLP
+# Text_Analysis_NLP
 This was a task given in one of the data science interview 
 
 1	Objective
